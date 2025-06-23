@@ -219,7 +219,7 @@ footer::before {
   content: '';
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: url('assets/band/band.png') center/cover no-repeat;
+  background: url('band/band.png') center/cover no-repeat;
   opacity: 0.25;
   z-index: 0;
   background-color: #181818;
