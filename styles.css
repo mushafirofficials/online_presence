@@ -417,4 +417,27 @@ footer::before {
   border-radius: 2px;
   opacity: 0.85;
   display: block;
+}
+.band-gif-section {
+  text-align: center;
+  margin: 3rem auto 2rem auto;
+  padding: 2rem 0 1.5rem 0;
+  background: #232323;
+  border-radius: 18px;
+  max-width: 900px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.13);
+}
+.band-gif-section h2 {
+  color: #ffb347;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+}
+.band-gif-img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  display: block;
+  margin: 0 auto;
 } 
